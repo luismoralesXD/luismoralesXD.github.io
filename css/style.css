@@ -1,26 +1,136 @@
-.wrapper {
-  float:left;
-  width:100%;
+body {
+  background-color: #000;
 }
-#content {
+.wrapper {
+  text-align: center;
   width:100%;
   padding-top: 20px;
 }
-#ShowAboutButton, #ShowAboutButton2 {
-    text-align: center;
-    margin-top: 40px;
-    background-color: white;
-    border: none;
-    cursor: pointer;
-    font-family: "Lato Light";
-    font-size: 22px;
+#content {
+  width:100%;
+  padding-top: 10px;
 }
-#About, #About2 {
-    width: 900px;
-    height: 600px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 10px;
-    background-color: gray;
-    display: none;
+.category {
+  text-align: center;
+  margin-top: 40px;
+  background-color: white;
+  border: none;
+  cursor: pointer;
+  font-family: "Lato Light";
+  font-size: 25px;
+  padding: 10px;
+  border-radius: 20px;
+  margin-left: 3px;
+  margin-right: 3px;
+}
+.all {
+  border-radius:20px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 25px;
+  background-color: #eee8d5;
+  display: none;
+  overflow: hidden;
+  width: 70%;
+  margin-left: 15%;
+}
+
+#Title1 {
+  background-color: #002b36;
+  color: white;
+}
+
+#Title2 {
+  background-color:#586e75;
+  color: white;
+}
+
+#Title3{
+  background-color: #93a1a1;
+  color: white;
+}
+
+#Title4 {
+  background-color: #fdf6e3;
+  color: black;
+}
+
+#Title5 {
+  background-color: #b58900;
+  color: white;
+}
+
+#Title6 {
+  background-color:#cb4b16;
+  color: white;
+}
+
+#Title7{
+  background-color: #dc322f;
+  color: white;
+}
+
+#Title8 {
+  background-color: #d33682;
+  color: white;
+}
+
+#Title9 {
+  background-color: #6c71c4;
+  color: white;
+}
+
+#Title10 {
+  background-color:#268bd2;
+  color: white;
+}
+
+#Title11 {
+  background-color: #2aa198;
+  color: white;
+}
+
+#Title12 {
+  background-color: #859900;
+  color: white;
+}
+
+#Title13 {
+  background-color: #073642;
+  color: white;
+}
+
+#Title14 {
+  background-color:#657b83;
+  color: white;
+}
+
+#Title15 {
+  background-color: #93a1a1;
+  color: white;
+}
+
+#Title16 {
+  background-color: #839496;
+  color: white;
+}
+
+.name, .reasons, .footer {
+  text-align:center;
+}
+
+.img {
+  width:100%;
+}
+
+img {
+  width: 50%;
+  margin-left: 25%;
+}
+
+.footer {
+  background-color: #f1f1f1;
+  color: black;
+  padding: 1px;
 }
