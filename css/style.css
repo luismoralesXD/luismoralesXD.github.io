@@ -1,0 +1,26 @@
+.wrapper {
+  float:left;
+  width:100%;
+}
+#content {
+  width:100%;
+  padding-top: 20px;
+}
+#ShowAboutButton, #ShowAboutButton2 {
+    text-align: center;
+    margin-top: 40px;
+    background-color: white;
+    border: none;
+    cursor: pointer;
+    font-family: "Lato Light";
+    font-size: 22px;
+}
+#About, #About2 {
+    width: 900px;
+    height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    background-color: gray;
+    display: none;
+}
