@@ -36,82 +36,82 @@ body {
   margin-left: 15%;
 }
 
-#Title1 {
+#Title1, #About1 {
   background-color: #002b36;
   color: white;
 }
 
-#Title2 {
+#Title2, #About2 {
   background-color:#586e75;
   color: white;
 }
 
-#Title3{
+#Title3, #About3{
   background-color: #93a1a1;
   color: white;
 }
 
-#Title4 {
+#Title4, #About4 {
   background-color: #fdf6e3;
   color: black;
 }
 
-#Title5 {
+#Title5, #About5 {
   background-color: #b58900;
   color: white;
 }
 
-#Title6 {
+#Title6, #About6 {
   background-color:#cb4b16;
   color: white;
 }
 
-#Title7{
+#Title7, #About7{
   background-color: #dc322f;
   color: white;
 }
 
-#Title8 {
+#Title8, #About8 {
   background-color: #d33682;
   color: white;
 }
 
-#Title9 {
+#Title9, #About9 {
   background-color: #6c71c4;
   color: white;
 }
 
-#Title10 {
+#Title10, #About10 {
   background-color:#268bd2;
   color: white;
 }
 
-#Title11 {
+#Title11, #About11 {
   background-color: #2aa198;
   color: white;
 }
 
-#Title12 {
+#Title12, #About12 {
   background-color: #859900;
   color: white;
 }
 
-#Title13 {
+#Title13, #About13 {
   background-color: #073642;
   color: white;
 }
 
-#Title14 {
+#Title14, #About14 {
   background-color:#657b83;
   color: white;
 }
 
-#Title15 {
+#Title15, #About15 {
   background-color: #93a1a1;
   color: white;
 }
 
-#Title16 {
+#Title16, #About16 {
   background-color: #839496;
   color: white;
 }
